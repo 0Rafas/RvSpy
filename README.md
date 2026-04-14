@@ -822,7 +822,7 @@ Built with precision, obsession, and too many late nights.
 
 | Name | Role |
 |---|---|
-| **P1** | Lead Developer — Architecture, Core Engines, GUI, Native Code |
+| **0Rafas** | Lead Developer — Architecture, Core Engines, GUI, Native Code |
 
 ---
 
