@@ -1,0 +1,27 @@
+[package]
+name = "rvspy"
+version = "0.1.0"
+edition = "2021"
+description = "Advanced Python Reverse Engineering Tool"
+
+[dependencies]
+base64 = "0.22.1"
+capstone = "0.14.0"
+eframe = { version = "0.27", features = ["persistence"] }
+egui = "0.27"
+flate2 = "1.1.9"
+goblin = "0.10.5"
+ignore = "0.4.25"
+md-5 = "0.10.6"
+regex = "1.12.3"
+rfd = "0.14"
+serde = { version = "1.0", features = ["derive"] }
+serde_json = "1.0.149"
+sha2 = "0.10.9"
+sysinfo = "0.38.3"
+tempdir = "0.3.7"
+winapi = { version = "0.3.9", features = ["debugapi", "winbase", "winnt", "memoryapi", "handleapi", "processthreadsapi", "errhandlingapi"] }
+# unicorn-engine = "2.1.5"  # Requires LLVM/libclang - re-enable after: winget install LLVM.LLVM
+
+[build-dependencies]
+cc = "1.2.56"
