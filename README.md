@@ -1,12 +1,8 @@
 <div align="center">
 
 ```
-██████╗ ██╗   ██╗███████╗██████╗ ██╗   ██╗
-██╔══██╗██║   ██║██╔════╝██╔══██╗╚██╗ ██╔╝
-██████╔╝██║   ██║███████╗██████╔╝ ╚████╔╝ 
-██╔══██╗╚██╗ ██╔╝╚════██║██╔═══╝   ╚██╔╝  
-██║  ██║ ╚████╔╝ ███████║██║        ██║   
-╚═╝  ╚═╝  ╚═══╝  ╚══════╝╚═╝        ╚═╝   
+<img width="1376" height="768" alt="Gemini_Generated_Image_x9r2ypx9r2ypx9r2" src="https://github.com/user-attachments/assets/a05be1da-c94b-43b5-92b9-432d9c0b7491" />
+
 ```
 
 **Advanced Python Executable Reverse Engineering Suite**
