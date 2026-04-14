@@ -1,7 +1,6 @@
 <div align="center">
 
-
-<img width="1376" height="768" alt="Gemini_Generated_Image_x9r2ypx9r2ypx9r2" src="https://github.com/user-attachments/assets/a05be1da-c94b-43b5-92b9-432d9c0b7491" />
+<img width="1135" height="556" alt="Screenshot 2026-04-14 214946" src="https://github.com/user-attachments/assets/024b4638-0b14-4149-b1bd-907e2b3e4f6e" />
 
 
 **Advanced Python Executable Reverse Engineering Suite**
