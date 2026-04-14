@@ -1,0 +1,19 @@
+<Project Sdk="Microsoft.NET.Sdk">
+
+  <PropertyGroup>
+    <TargetFramework>netstandard2.0</TargetFramework>
+
+    <PackageId>RvSpy.Client</PackageId>
+    <Version>0.1.0</Version>
+    <Authors>RvSpy</Authors>
+    <Company>RvSpy</Company>
+    <Product>RvSpy Login Client</Product>
+    <Description>Client library for RvSpy login/auth network. Provides simple APIs to integrate login into WPF, WinForms, and native apps.</Description>
+    <PackageProjectUrl>https://example.com/rvspy</PackageProjectUrl>
+    <RepositoryUrl>https://example.com/rvspy/repository</RepositoryUrl>
+    <RepositoryType>git</RepositoryType>
+    <PackageLicenseExpression>MIT</PackageLicenseExpression>
+    <PackageRequireLicenseAcceptance>false</PackageRequireLicenseAcceptance>
+  </PropertyGroup>
+
+</Project>

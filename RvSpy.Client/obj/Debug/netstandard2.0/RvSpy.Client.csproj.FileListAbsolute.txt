@@ -1,0 +1,5 @@
+C:\Users\P1\OneDrive\Desktop\Orders\vs code projects\RvSpy\RvSpy.Client\obj\Debug\netstandard2.0\RvSpy.Client.csproj.AssemblyReference.cache
+C:\Users\P1\OneDrive\Desktop\Orders\vs code projects\RvSpy\RvSpy.Client\obj\Debug\netstandard2.0\RvSpy.Client.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\P1\OneDrive\Desktop\Orders\vs code projects\RvSpy\RvSpy.Client\obj\Debug\netstandard2.0\RvSpy.Client.AssemblyInfoInputs.cache
+C:\Users\P1\OneDrive\Desktop\Orders\vs code projects\RvSpy\RvSpy.Client\obj\Debug\netstandard2.0\RvSpy.Client.AssemblyInfo.cs
+C:\Users\P1\OneDrive\Desktop\Orders\vs code projects\RvSpy\RvSpy.Client\obj\Debug\netstandard2.0\RvSpy.Client.csproj.CoreCompileInputs.cache

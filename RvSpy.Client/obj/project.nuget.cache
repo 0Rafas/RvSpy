@@ -1,0 +1,11 @@
+{
+  "version": 2,
+  "dgSpecHash": "UXsPM0XDdok=",
+  "success": true,
+  "projectFilePath": "C:\\Users\\P1\\OneDrive\\Desktop\\Orders\\vs code projects\\RvSpy\\RvSpy.Client\\RvSpy.Client.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\P1\\.nuget\\packages\\microsoft.netcore.platforms\\1.1.0\\microsoft.netcore.platforms.1.1.0.nupkg.sha512",
+    "C:\\Users\\P1\\.nuget\\packages\\netstandard.library\\2.0.3\\netstandard.library.2.0.3.nupkg.sha512"
+  ],
+  "logs": []
+}
